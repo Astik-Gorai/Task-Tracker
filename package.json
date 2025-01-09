@@ -1,0 +1,24 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Task tracker is a project used to track and manage your tasks. It is a simple command line interface (CLI) to track what we need to do, what we have done, and what we are currently working on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.0.0"
+  },
+  "bin": {
+    "task-cli": "./index.js",
+    "hi": "./index2.js"
+  }
+  
+  
+  
+}
