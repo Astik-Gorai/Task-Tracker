@@ -42,6 +42,6 @@ The following commands are available in the Task Tracker CLI:
 
 ### Example Usage
 - Add a task:
-  `task cli add 'Attend Scrum Call'`
+  `task-cli add 'Attend Scrum Call'`
 - Delete a task with ID: 13:
   `task-cli delete 12`
